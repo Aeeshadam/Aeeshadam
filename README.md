@@ -1,4 +1,4 @@
-### <div align="center">Hey there 👋</div>  
+### <div align="left">Hey there 👋</div>  
   
 
 - ⭐ I'm Aishat  
