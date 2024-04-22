@@ -1,7 +1,7 @@
 ### <div align="left">Hey there 👋</div>  
   
 
-- ⭐ I'm Aishat  
+- ⭐ I'm Aishat, a Frontend Engineer based in the UK  
   
 
 - 🔭 I’m currently working on honing my Frontend Skills.  
